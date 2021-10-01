@@ -1,0 +1,25 @@
+#image{
+    overflow:auto;
+}
+#photo{
+    float:left;
+    padding:0px 20px 20px 20px;
+    border-radius: 50px;
+}
+li{
+ font-style:italic;
+ color:red;
+}
+#img{
+    float:right;
+    padding:0px 20px 20px 20px;
+    border:indigo;
+    border-width:70px;
+    border-color:black;
+    border-radius: 50px;
+}
+center{
+    font-style:oblique;
+    font-weight:500;
+    color:darkred;
+}
